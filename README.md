@@ -1,6 +1,6 @@
-# Basic Gulp settings
+# Basic Gulp template
 
-[Gulp](https://gulpjs.com/).
+[Gulp](https://gulpjs.com/)
 
 ## Requirement
 
